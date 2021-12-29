@@ -1,8 +1,8 @@
-### Olá!! Eu sou Amanda Souza 👋
+## Olá!! Eu sou Amanda Souza 👋
 
-- 🎓 Estou cursando Engenharia de Software
-- 🚀 Comecei a estudar tecnologia em 2021
-- 🦋 Em transição de carreira..
+#### - 🎓 Estou cursando Engenharia de Software
+#### - 🚀 Comecei a estudar tecnologia em 2021
+#### - 🦋 Em transição de carreira..
 
 ##
 
