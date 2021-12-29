@@ -1,9 +1,8 @@
 ### Olá!! Eu sou Amanda Souza 👋
 
-- 🎓 Sou estudante de Engenharia de Software
+- 🎓 Estou cursando Engenharia de Software
 - 🚀 Atualmente estou dedicando meu tempo estudando JavaScript
 - 🎯 Meu próximo objetivo é aprender a linguagem Python 
-- 🔭 Estou a procura de estágio 
 
 ##
 
