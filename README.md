@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Amanda Souza 👋
 
 #### - 🎓 Estou cursando Engenharia de Software
-#### - 🚀 Comecei a estudar tecnologia em 2021
+#### - 🔎 Em busca de estágio
 #### - 🦋 Em transição de carreira..
 
 ##
@@ -16,6 +16,7 @@
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Amanda-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Amanda-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   
   
